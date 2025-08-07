@@ -7,7 +7,7 @@ This project predicts house prices in Bangalore using regression models and clas
 - **Regression**: Predicts house prices using models like Linear Regression and Random Forest.
 - **Classification**: Categorizes house listings into buckets (e.g., low, mid, high value).
 - Data cleaning, feature engineering, and exploratory analysis.
-- Model performance evaluation using metrics like MAE, RMSE, accuracy, and F1-score.
+- Model performance evaluation using metrics like MAE, RMSE, MAPE
 
 ##  Dataset
 
